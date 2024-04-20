@@ -1,1 +1,1 @@
-this is hust a practice project to learn how hhtp sever work
+this is just a practice project to learn how hhtp sever work
